@@ -1,4 +1,4 @@
-# Stock Voucher Manager (currently "projet")
+# Stock Voucher Manager
 
 > **Rename recommended:** this repo is currently named `projet` ("project" in French) — one of the least descriptive names possible on a GitHub profile. Suggested name: **`stock-voucher-manager`** or **`inventory-in-out-tracker`**.
 
